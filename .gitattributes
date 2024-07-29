@@ -1,2 +1,0 @@
-libopencl-clang.so.14 filter=lfs diff=lfs merge=lfs -text
-*.14 filter=lfs diff=lfs merge=lfs -text
